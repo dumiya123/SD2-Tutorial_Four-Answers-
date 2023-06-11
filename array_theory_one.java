@@ -5,8 +5,18 @@ public class array_theory_one
         //lets declare a array
         int[] array ={1,2,3,4,5,6};
         System.out.println(array.length);
-        int[] numbers;
-        numbers=new int[]
+        String[] students_ID={"w1234567","w12345678","w1234567678"};
+        System.out.println(students_ID[0]);
+        System.out.println(students_ID[1]);
+        System.out.println(students_ID[2]);
+        
+        
+
+
+
+
+        
+
 
 
 
