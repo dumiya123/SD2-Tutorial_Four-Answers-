@@ -46,6 +46,7 @@ public class ArrayTest
         System.out.printf("Average score:\t%.2f%n", averageScore);
         System.out.println("---------------------------------------------------------------------------------");
         scanner.close();
+        
 
 
 
