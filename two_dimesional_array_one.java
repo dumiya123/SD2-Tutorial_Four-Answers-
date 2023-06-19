@@ -1,6 +1,9 @@
 
 public class two_dimesional_array_one 
 {
+    /**
+     * @param args
+     */
     public static void main(String[] args) 
     {
         int[][] array={{1,2,3,4},{1,2,3,4}};
@@ -12,7 +15,7 @@ public class two_dimesional_array_one
                 System.out.println(array[i][j]);
                 
             }
-            
+        
         }
 
 
