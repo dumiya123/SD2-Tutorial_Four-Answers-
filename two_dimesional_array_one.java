@@ -12,7 +12,8 @@ public class two_dimesional_array_one
         {
             for (int j = 0; j < array[i].length; j++) 
             {
-                System.out.println(array[i][j]);
+
+                System.out.println();
                 
             }
         
