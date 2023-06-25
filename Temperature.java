@@ -15,7 +15,7 @@ public class Temperature
 
         for (int city = 0; city<num_cities; city++) 
         {
-            System.out.println("Enter temperature for city: " + (city+1) +" : " );
+            System.out.println("Enter temperature for city: " + (city+1));
             for (int day = 0; day < num_days; day++) 
             {
                 System.out.print("Day " + (day + 1) + ": ");
@@ -58,7 +58,17 @@ public class Temperature
 
 
             System.out.println("Highest Temperature: " + highest_temperature);
-                
+            System.out.println(" Highest City: " + (highest_city+1));
+            System.out.println("highest Day: " + (highest_day+1));
+            System.out.println("lowest Temperature: " + lowest_temperature);
+            System.out.println("lowest City: " + (lowest_city+1));
+            System.out.println("lowest Day: " + (lowest_day));
+
+            scanner.close();
+
+
+
+
                 
                  
                 
